@@ -1,3 +1,3 @@
-# FAQ for CMN300
+# Gamification Info Website
 
-Based on CodyHouse FAQ Template
+Visit at: https://anthfgreco.github.io/Gamification/
